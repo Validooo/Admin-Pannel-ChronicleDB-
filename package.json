@@ -1,0 +1,42 @@
+{
+  "name": "react-bootstrap-dropdown",
+  "version": "0.3.1",
+  "description": "It's a bootstrap dropdown for react.js ",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllenFang/react-bootstrap-dropdown.git"
+  },
+  "scripts": {
+    "dev": "gulp dev",
+    "prod": "gulp prod"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "dropdown",
+    "select"
+  ],
+  "files": [
+    "README.md",
+    "dist/",
+    "lib/"
+  ],
+  "author": "AllenFang",
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "react": "^17.0.2",
+    "vinyl-source-stream": "~1.1.0",
+    "watchify": "^4.0.0"
+  },
+  "dependencies": {
+    "classnames": "~1.2.0",
+    "react-accessible-dropdown-menu-hook": "^3.1.0",
+    "react-bootstrap-dropdown": "^0.3.0",
+    "save": "^2.4.0"
+  }
+}
