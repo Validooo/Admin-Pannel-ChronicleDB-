@@ -1,0 +1,39 @@
+.register {
+  position: relative;
+  left: 470px;
+  top: 23px;
+}
+
+.textfielddiv {
+  float: right;
+  width: 91%;
+}
+
+.textfield {
+  position: absolute;
+  left: 7px;
+}
+
+.registerButtondiv {
+  position: absolute;
+  top: 55px;
+  left: 235px;
+}
+
+.registerbutton {
+  position: absolute;
+  left: 20px;
+  width: 60ch;
+  height: 10ch;
+}
+
+.title {
+  position: relative;
+  left: 12px;
+}
+
+.SignIndiv {
+  position: relative;
+  top: 7ch;
+  left: 6ch;
+}
