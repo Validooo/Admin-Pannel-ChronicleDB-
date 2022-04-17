@@ -5,3 +5,9 @@ This project supports both Rust and Java Backends.
 To read more about the Backend: https://dl.acm.org/doi/fullHtml/10.1145/3342357
 
 The Project is written in React js.
+
+## Aktuelle Screenshots 
+All Screenshots can be found in Photos Folder
+
+
+
